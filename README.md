@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @KarthiDevelope
-- 👀 I’m interested in Web Developement...
-- 🌱 I’m FullStack Developer...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Karthikeyan
 
-<!---
-KarthiDevelope/KarthiDevelope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Developer | MERN | TypeScript | Node.js
+
+I build scalable SaaS products, enterprise web applications, and REST APIs.
+
+✔ 3+ Years Experience
+✔ React & Next.js
+✔ Node.js & NestJS
+✔ MongoDB & PostgreSQL
+✔ AWS Deployment
+
+Currently available for:
+
+• Freelance Projects
+• Contract Work
+• Full-Time Opportunities
+
+📩 karthiofficial15@gmail.com
+🌐 Portfolio
